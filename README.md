@@ -6,12 +6,12 @@ I'm a self-taught and highly motivated web developer with a strong passion for t
 
 
 ## Skills And Experience
-Angular 
-	:atom_symbol: REACT 
-JS
-HTML 
-CSS
-Type-Script
+* :a: Angular 
+* :atom_symbol: REACT 
+* :yellow_circle: JS
+* :orange_circle: HTML 
+* 🟡 CSS
+* :t: Type-Script
 
 
  
