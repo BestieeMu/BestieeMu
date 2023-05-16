@@ -27,6 +27,6 @@ I'm a self-taught and highly motivated web developer with a strong passion for t
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BestieeMu&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=BestieeMu)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=BestieeMu)  ![Profile views](https://gpvc.arturio.dev/BestieeMu)  
 
-![Profile views](https://gpvc.arturio.dev/BestieeMu)  
+
