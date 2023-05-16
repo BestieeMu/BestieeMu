@@ -5,9 +5,16 @@
 I'm a self-taught and highly motivated web developer with a strong passion for technology and a background in computer science. I've honed my skills through various projects, and I have a proven track record of success in developing and maintaining web applications. I have experience in web design and user experience. I stay current with the latest web development technologies and best practices and can work independently or in a team. My diverse skills and experience make me a valuable asset to any organization seeking a talented and driven web developer.
 
 
-Skills: Angular / REACT / JS / HTML / CSS/Type-Script
+## Skills And Experience
+Angular 
+	:atom_symbol: REACT 
+JS
+HTML 
+CSS
+Type-Script
 
-- 🔭 I’m currently working on this page. 
+
+ 
 - 🌱 I’m currently learning Next js and Type-script 
 - 💬 Ask me about How to fix your daily bugs 
 
