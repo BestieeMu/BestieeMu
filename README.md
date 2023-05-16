@@ -25,5 +25,5 @@ I'm a self-taught and highly motivated web developer with a strong passion for t
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BestieeMu)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BestieeMu&show_icons=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=BestieeMu)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BestieeMu&show_icons=true)     ![GitHub streak stats](https://streak-stats.demolab.com/?user=BestieeMu)
 
