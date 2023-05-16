@@ -11,7 +11,7 @@ I'm a self-taught and highly motivated web developer with a strong passion for t
 * :yellow_circle: JS
 * :orange_circle: HTML 
 * 🟡 CSS
-* :t: Type-Script
+* :electron: Type-Script
 
 
  
