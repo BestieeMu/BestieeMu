@@ -1,4 +1,4 @@
-### Hi there 👋,### Hi there 👋, my name is Chidera
+### Hi there 👋, my name is Chidera
 #### Front-End Web Developer
 <!-- ![Front-End Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
