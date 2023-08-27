@@ -13,7 +13,7 @@ I'm a self-taught and highly motivated web developer with a strong passion for t
 * 🟡 CSS
 * :electron: Type-Script
 
-
+[![BestieeMu's GitHub | Dependencies](https://stats.quine.sh/BestieeMu/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=BestieeMu)
  
 - 🌱 I’m currently learning Next js and Type-script 
 - 💬 Ask me about How to fix your daily bugs 
