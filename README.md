@@ -18,14 +18,9 @@ I'm a self-taught and highly motivated web developer with a strong passion for t
 - 🌱 I’m currently learning Next js and Type-script 
 - 💬 Ask me about How to fix your daily bugs 
 
+[![BestieeMu's GitHub | Stats](https://stats.quine.sh/BestieeMu/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=BestieeMu)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BestieeMu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cport.vercel.app/)  
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=BestieeMu)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BestieeMu&show_icons=true)     ![GitHub streak stats](https://streak-stats.demolab.com/?user=BestieeMu)
+[![BestieeMu's GitHub | Topics Over Time](https://stats.quine.sh/BestieeMu/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=BestieeMu)
 
 [![BestieeMu's GitHub | Languages Over Time](https://stats.quine.sh/BestieeMu/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=BestieeMu)
 
